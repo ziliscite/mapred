@@ -44,4 +44,4 @@ if __name__ == "__main__":
     # py main.py dataset/User_Listening_History.csv > output/total_listen_id.txt
 
     # HDFS
-    # py main.py -r hadoop User_Listening_History.csv > total_listen_id.txt
+    # py main.py -r hadoop dataset/User_Listening_History.csv > output/total_listen_id.txt
